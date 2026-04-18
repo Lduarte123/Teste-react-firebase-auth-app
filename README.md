@@ -60,9 +60,8 @@ VITE_FIREBASE_APP_ID=your_app_id
 
 ```
 ```env.test 
-VITE_TEST_EMAIL=teste@email.com
-VITE_TEST_PASSWORD=123456
-```
+VITE_TEST_EMAIL= Email_teste
+VITE_TEST_PASSWORD= password_test
 
 > ⚠️ Importante: você pode criar um projeto no Firebase para gerar essas credenciais.
 
